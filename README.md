@@ -1,2 +1,2 @@
-# BasicRegexFilters
-Basic Regex filters
+# RegexFilters
+Regex filters
