@@ -1,0 +1,25 @@
+{
+  "name": "basicregexfilters",
+  "version": "1.0.0",
+  "description": "Basic Regex filters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "basic",
+    "regex",
+    "filters",
+    "filtering"
+  ],
+  "author": "GreXLin85",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreXLin85/BasicRegexFilters.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GreXLin85/BasicRegexFilters/issues"
+  },
+  "homepage": "https://github.com/GreXLin85/BasicRegexFilters#readme"
+}
